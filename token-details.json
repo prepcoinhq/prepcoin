@@ -1,0 +1,10 @@
+{
+  "name": "Prep Coin",
+  "symbol": "PREP",
+  "decimals": 9,
+  "network": "Solana",
+  "contract": "BbHs6NtTkHmxQmfaiVpNGUBNehgpQr3WUXjnkyjqh5S6",
+  "creator": "Verified Solana Creator",
+  "mint_authority": "Revoked",
+  "freeze_authority": "Revoked"
+}
