@@ -3,7 +3,7 @@ Prep Coin™ Transparency Hub
 Token Lock Proof: [Main Lock](./PREPmaintokenlock.jpg) | [Founder Lock](./PREPfoundertokenloc.jpg)
 
 🧬 Token Metadata  
-Contract Address: BbHs6NTtKhmxQmfaiVpNGUBEnhqQr3WUXjnkyjhS6G  
+Contract Address: BbHs6NtTkHmxQmfaiVpNGUBNehgpQr3WUXjnkyjqh5S6  
 Symbol: PREP  
 Decimals: 6  
 Total Supply: 10,000,000  
