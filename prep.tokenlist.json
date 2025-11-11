@@ -1,0 +1,21 @@
+`json
+{
+  "name": "Prep Coin Token List",
+  "logoURI": "https://prepcoin.xyz/logo.png",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "BbHs6NtTkHmxQmfaiVpNGUBNehgpQr3WUXjnkyjqh5S6",
+      "symbol": "PREP",
+      "name": "Prep Coin",
+      "decimals": 6,
+      "logoURI": "https://prepcoin.xyz/logo.png",
+      "tags": ["utility-token", "prepping"],
+      "extensions": {
+        "website": "https://prepcoin.xyz",
+        "twitter": "https://twitter.com/prepcoinhq"
+      }
+    }
+  ]
+}
+`
