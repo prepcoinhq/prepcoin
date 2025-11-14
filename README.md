@@ -1,12 +1,5 @@
-# PREP Coin™
+# Prep Coin™ (PREP)
 
-PREP Coin™ is a prepping-grade utility token built on Solana. Designed for tactical resilience, contributor trust, and audit-safe deployment.
-
----
-
-### 🧬 Token Metadata
-
-- **Mint Address**: `BbHs6NtTkHmxQmfaiVpNGUBNehgpQr3WUXjnkyjqh5S6`  
 - **Symbol**: `PREP`  
 - **Decimals**: `6`  
 - **Total Supply**: `10,000,000`  
@@ -17,8 +10,12 @@ PREP Coin™ is a prepping-grade utility token built on Solana. Designed for tac
 
 ### ✅ Verification
 
-PREP Coin™ has completed KYC verification with Cyberscope.  
-[View Certificate](./kyc.png)
+Prep Coin™ has completed KYC verification with Cyberscope.  
+Smart contracts for PREP and Prep‑STK were audited in April 2025.  
+Whitepaper and wallet allocations published for public verification.
+
+- [View KYC Certificate](./kyc.png)  
+- [View Audit Report](./prep/audit.pdf)
 
 ---
 
@@ -26,8 +23,9 @@ PREP Coin™ has completed KYC verification with Cyberscope.
 
 Includes whitepaper, audit report, token metadata, roadmap, and wallet distribution. Built for public reference — no source code required.
 
-- **Whitepaper**: [whitepaper.md](./whitepaper.md)  
-- **Audit Report**: [prep/audit.pdf](./prep/audit.pdf)
+- **Whitepaper**: [Prep_Coin_Whitepaper_Nov_2025.md](./Prep_Coin_Whitepaper_Nov_2025.md)  
+- **Audit Report**: [prep/audit.pdf](./prep/audit.pdf)  
+- **Wallet Transparency**: Included in whitepaper (Section 3a)
 
 ---
 
@@ -44,7 +42,9 @@ Includes whitepaper, audit report, token metadata, roadmap, and wallet distribut
 
 - **Website**: [prepcoin.xyz](https://prepcoin.xyz)  
 - **Twitter**: [@prepcoinhq](https://twitter.com/prepcoinhq)  
-- **GitHub**: [prepcoinhq](https://github.com/prepcoinhq)
+- **GitHub**: [prepcoinhq](https://github.com/prepcoinhq)  
+- **Telegram**: [PrepCoinCommunity](https://t.me/PrepCoinCommunity)  
+- **Email**: prepcoin@proton.me
 
 ---
 
