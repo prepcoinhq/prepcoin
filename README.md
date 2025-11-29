@@ -23,29 +23,27 @@ Whitepaper and wallet allocations published for public verification.
 
 Includes whitepaper, audit report, token metadata, roadmap, and wallet distribution. Built for public reference — no source code required.
 
-- **Whitepaper**: [Prep_Coin_Whitepaper_Nov_2025.md](./Prep_Coin_Whitepaper_Nov_2025.md)  
-- **Audit Report**: [prep/audit.pdf](./prep/audit.pdf)  
-- **Wallet Transparency**: Included in whitepaper (Section 3a)
+- **Whitepaper**: [Prep Coin™ Whitepaper v1.3 (PDF)](./PrepCoinWhitepaperv1.3.pdf)  
+- **Wallet Distribution**: [wallet-distribution.csv](./wallet-distribution.csv)  
+- **Roadmap**: [roadmap.txt](./roadmap.txt)
 
 ---
 
-### 🚀 Launch Timeline
+### 🆕 Whitepaper v1.3 Highlights
 
-- **Presale**: Live on [PinkSale](https://www.pinksale.finance/solana/launchpad/CFWxfkpbL64Dx53Z4Xt85SRUEKWWZUyNr1vymcU1k3VV)  
-- **Launch Date**: November 2025  
-- **Founder Tokens Locked Until**: May 2026  
-- **Main Token Lock Until**: November 2025
-
----
-
-### 🌐 Official Links
-
-- **Website**: [prepcoin.xyz](https://prepcoin.xyz)  
-- **Twitter**: [@prepcoinhq](https://twitter.com/prepcoinhq)  
-- **GitHub**: [prepcoinhq](https://github.com/prepcoinhq)  
-- **Telegram**: [PrepCoinCommunity](https://t.me/PrepCoinCommunity)  
-- **Email**: prepcoin@proton.me
+- Clarified KYC applies to Founder only  
+- Documented Facebook Group migration to Page  
+- Positioned YouTube as primary content hub  
+- Locked presale and launch timeline  
+- Updated wallet lock status (73% locked as of Nov 28, 2025)
 
 ---
 
-Built for prepping clarity, contributor trust, and tactical resilience.
+### 🌐 Community Channels
+
+- Website: [prepcoin.xyz](https://prepcoin.xyz)  
+- Telegram: [t.me/PrepCoinCommunity](https://t.me/PrepCoinCommunity)  
+- X (Twitter): [@PrepCoinHQ](https://x.com/PrepCoinHQ)  
+- Facebook: [Prep Coin Page](https://facebook.com/PrepCoinHQ)  
+- YouTube: [youtube.com/@PrepCoinHQ](https://youtube.com/@PrepCoinHQ)  
+- Email: prepcoin@proton.me
