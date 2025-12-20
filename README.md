@@ -1,49 +1,49 @@
-# Prep Coin™ (PREP)
+Prep Coin™ (PREP)
+Symbol: PREP
+Decimals: 6
+Total Supply: 10,000,000
+Chain: Solana
+Jupiter-compatible metadata: prep.tokenlist.json
 
-- **Symbol**: `PREP`  
-- **Decimals**: `6`  
-- **Total Supply**: `10,000,000`  
-- **Chain**: `Solana`  
-- **Jupiter-compatible metadata**: [prep.tokenlist.json](./prep.tokenlist.json)
+✅ Verification
+Prep Coin™ has completed KYC verification with Cyberscope.
+Smart contracts for PREP and Prep‑STK were audited in April 2025.
+Whitepaper v1.4 and wallet allocations published for public verification.
 
----
+View KYC Certificate
+View Audit Report
 
-### ✅ Verification
+📄 Documentation
+Includes whitepaper, audit report, token metadata, roadmap, and wallet distribution. Built for public reference with clear, audit-safe transparency.
 
-Prep Coin™ has completed KYC verification with Cyberscope.  
-Smart contracts for PREP and Prep‑STK were audited in April 2025.  
-Whitepaper and wallet allocations published for public verification.
+Whitepaper: Prep_Coin_Whitepaper_v1.4_Dec2025.pdf  
+Wallet Distribution: wallet-distribution.csv  
+Roadmap: roadmap.txt  
 
-- [View KYC Certificate](./kyc.png)  
-- [View Audit Report](./prep/audit.pdf)
+🔒 Lock Proofs
+Liquidity Lock Wallet  
+3tod4efVpW11sLNR7HPke6o5xcbpBkWerjJFvFBetWjM  
+Locked until 8 May 2027  
+View on Pinksale
 
----
+Founder Lock Wallet  
+BRwFRoHKF7AaCVpKhSwiXcrhW7hPU4dWg3Hstqy3VDm6  
+Locked until 8 May 2026  
+View on Pinksale
 
-### 📄 Documentation
+🆕 Whitepaper v1.4 Highlights
+Updated wallet allocations and lock dates  
+Documented staking deposit and Raydium vault authority  
+Clarified circulating supply vs non-circulating wallets  
+Added Prep Cache shop structure and discount wallet  
+Updated community channels and ecosystem overview  
 
-Includes whitepaper, audit report, token metadata, roadmap, and wallet distribution. Built for public reference — no source code required.
+🌐 Community Channels
+Website: prepcoin.xyz  
+Telegram: t.me/PrepCoinCommunity  
+X (Twitter): @PrepCoinHQ  
+Facebook: Prep Coin Official Page
+Facebook: Prep Coin Community Group
+YouTube: youtube.com/@PrepCoinHQ  
+Email: prepcoin@proton.me
 
-- **Whitepaper**: [Prep Coin™ Whitepaper v1.3 (PDF)](./PrepCoinWhitepaperv1.3.pdf)  
-- **Wallet Distribution**: [wallet-distribution.csv](./wallet-distribution.csv)  
-- **Roadmap**: [roadmap.txt](./roadmap.txt)
-
----
-
-### 🆕 Whitepaper v1.3 Highlights
-
-- Clarified KYC applies to Founder only  
-- Documented Facebook Group migration to Page  
-- Positioned YouTube as primary content hub  
-- Locked presale and launch timeline  
-- Updated wallet lock status (73% locked as of Nov 28, 2025)
-
----
-
-### 🌐 Community Channels
-
-- Website: [prepcoin.xyz](https://prepcoin.xyz)  
-- Telegram: [t.me/PrepCoinCommunity](https://t.me/PrepCoinCommunity)  
-- X (Twitter): [@PrepCoinHQ](https://x.com/PrepCoinHQ)  
-- Facebook: [Prep Coin Page](https://facebook.com/PrepCoinHQ)  
-- YouTube: [youtube.com/@PrepCoinHQ](https://youtube.com/@PrepCoinHQ)  
-- Email: prepcoin@proton.me
