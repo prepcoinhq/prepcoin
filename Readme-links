@@ -1,0 +1,20 @@
+# Prep Coin™ Documentation Index
+
+A quick reference list for all public documentation in this repository.
+
+## Core Files
+- [README.md](README.md)
+- [ecosystem-overview.md](ecosystem-overview.md)
+- [roadmap-2026.md](roadmap-2026.md)
+
+## Technical & Transparency Files
+- Token Metadata: prep.tokenlist.json
+- Wallet Distribution: wallet-distribution.csv
+- Whitepaper v1.4: Prep_Coin_Whitepaper_v1.4_Dec2025.pdf
+- Roadmap (Legacy): roadmap.txt
+
+## Lock Proofs
+- Liquidity Lock (2027)
+- Founder Lock (2026)
+
+This index helps reviewers, auditors, and community members navigate the Prep Coin™ documentation quickly and clearly.
