@@ -1,0 +1,86 @@
+# Prep Coin™ Tokenomics (2026)
+
+Prep Coin™ (PREP) is a fixed‑supply Solana SPL token designed for real‑world utility across the Prep Cache ecosystem, staking, governance, and future Solana Pay integrations. This document outlines the full token distribution, lock structure, and circulating supply for 2026.
+
+---
+
+## 🔢 Total Supply
+**10,000,000 PREP**  
+Fixed supply. No minting. No burning of the main supply.
+
+---
+
+## 🔒 Locked & Non‑Circulating Allocations
+
+### **1. Liquidity Pool (Locked)**
+**2,000,000 PREP**  
+- Locked until **8 May 2027**  
+- Wallet: `3tod4efVpW11sLNR7HPke6o5xcbpBkWerjJFvFBetWjM`  
+- Supports Raydium liquidity  
+- Non‑circulating until unlock  
+
+### **2. Founder Wallet (Locked)**
+**1,000,000 PREP**  
+- Locked until **8 May 2026**  
+- Wallet: `BRwFRoHKF7AaCVpKhSwiXcrhW7hPU4dWg3Hstqy3VDm6`  
+- Non‑circulating  
+- Cannot be moved or sold  
+
+---
+
+## 🏛️ Ecosystem Allocations
+
+### **3. Prep‑STK (Staking & Governance Pool)**
+**2,000,000 PREP**  
+- Staking rewards  
+- Governance voting  
+- Discount/burn automation (2026 update)  
+- Raydium vault authority documented in whitepaper v1.4  
+
+### **4. Marketing & Ecosystem Growth**
+**1,000,000 PREP**  
+- Partnerships, listings, integrations  
+- YouTube, Facebook, workshop outreach  
+- Transparent and trackable  
+
+### **5. Prep Cache Shop Discount Wallet**
+**500,000 PREP**  
+- Powers Prep‑STK discount system  
+- Shop rewards and loyalty incentives  
+- Non‑circulating until used  
+
+### **6. Team & Operations**
+**500,000 PREP**  
+- Long‑term development  
+- Infrastructure, hosting, integrations  
+- Not sold on market  
+
+### **7. Community & Airdrop Allocation**
+**500,000 PREP**  
+- Workshops, challenges, educational content  
+- Reserved for future community events  
+- Not used for hype or pump events  
+
+---
+
+## 💧 Circulating Supply (2026)
+**3,500,000 PREP**
+
+Circulating supply includes:
+- Public holders  
+- DEX liquidity (locked but counted as circulating)  
+- Shop payments  
+- Staking deposits  
+
+All other allocations remain **non‑circulating** due to locks or ecosystem roles.
+
+---
+
+## 📘 Transparency
+- KYC completed with Cyberscope  
+- PREP + Prep‑STK audits completed  
+- Lock proofs published  
+- Wallet distribution file included in repository  
+- Updated whitepaper v1.4 available  
+
+This tokenomics structure aligns with the 2026 roadmap and supports long‑term ecosystem growth, Solana Pay integration, and Prep‑STK governance.
